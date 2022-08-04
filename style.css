@@ -1,0 +1,30 @@
+
+* { padding: 0px;
+margin: 0px;}
+.logo { color: rgb(255, 255, 255);}
+.logo {
+  font-family: 'Nunito', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 30px;}
+.hadder {
+  padding: 30px 30px 30px 30px;
+  display: flex;
+  justify-content: space-between;
+  background-image: url("pexels-olya-kobruseva-5386735.jpg");
+  background-size: cover;
+  height: 89vh;}
+
+.menuiteam {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: 'PT Sans', sans-serif;
+  margin-right: 15px;
+  text-align: center;}
+
+.buttom {  color: white;
+  text-decoration: none;
+  padding: 16px 16px;
+    font-family: 'PT Sans', sans-serif;
+  border: 2px solid yellow;}
+  .menuiteam:hover { color: yellow;}
+
